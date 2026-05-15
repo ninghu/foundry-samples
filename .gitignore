@@ -6,6 +6,9 @@
 # macOS
 .DS_Store
 
+# LiveShare cache files
+*.lscache
+
 # User-specific files
 *.rsuser
 *.suo
